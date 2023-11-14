@@ -8,3 +8,12 @@ Permite que os usuários devolvam os livros emprestados.
 
 - Execute `devolucao_livro.py` para registrar a devolução de um livro.
 - Informe o ID do livro e do usuário para concluir o processo.
+
+# Cadastro de Livros
+
+Esta funcionalidade permite o cadastro de novos livros no sistema.
+
+## Instruções
+
+- Execute o script `cadastro_livro.js` para adicionar um novo livro.
+- Certifique-se de incluir todos os detalhes necessários, como título, autor e ISBN.
