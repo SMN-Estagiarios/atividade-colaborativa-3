@@ -28,6 +28,17 @@ Esta funcionalidade permite o cadastro de novos livros no sistema.
 - Execute o script `cadastro_livro.js` para adicionar um novo livro.
 - Certifique-se de incluir todos os detalhes necessários, como título, autor e ISBN.
 
+<<<<<<< HEAD
+=======
+# Notificações de Empréstimo por Email
+
+Envia notificações por e-mail aos usuários após um empréstimo bem-sucedido.
+
+## Instruções
+
+- `notificacao_email.py` gerencia o envio de notificações por e-mail.
+- Certifique-se de configurar as credenciais do servidor de e-mail.
+>>>>>>> feature-pesquisa-titulo
 # Devolução de Livros
 
 Permite que os usuários devolvam os livros emprestados.
@@ -116,3 +127,11 @@ Gera recomendações personalizadas de livros com base no histórico de leitura 
 - Utilize `controle_multas.py` para gerenciar as multas.
 - Informe o ID do usuário e do livro para aplicar uma multa.
 
+# Pesquisa de Livros por Título
+
+Permite aos usuários pesquisar livros com base no título.
+
+## Instruções
+
+- Execute `pesquisa_por_titulo.py` para buscar livros por título.
+- Informe o título desejado para obter resultados relevantes.
