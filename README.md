@@ -1,6 +1,7 @@
 # atividade-colaborativa-3
 Objetivo: fazer como se fosse valendo a vida. Mói de mzr. 
 
+<<<<<<< HEAD
 # Registro de Empréstimos
 
 Registra os empréstimos de livros aos usuários.
@@ -107,3 +108,14 @@ Permite que os usuários reservem livros que estão atualmente emprestados.
 
 - Utilize `reserva_livro.py` para fazer uma reserva.
 - Informe o ID do livro desejado e do usuário para realizar a reserva.
+=======
+# Controle de Multas
+
+Registra e controla as multas aplicadas aos usuários por atraso na devolução.
+
+## Instruções
+
+- Utilize `controle_multas.py` para gerenciar as multas.
+- Informe o ID do usuário e do livro para aplicar uma multa.
+
+>>>>>>> feature-controle-multas
