@@ -99,3 +99,11 @@ Gera um relatório dos livros atualmente disponíveis no acervo.
 
 - Execute `relatorio_livros_disponiveis.py` para gerar o relatório.
 - O relatório incluirá informações como título, autor e disponibilidade.
+# Reservas de Livros
+
+Permite que os usuários reservem livros que estão atualmente emprestados.
+
+## Instruções
+
+- Utilize `reserva_livro.py` para fazer uma reserva.
+- Informe o ID do livro desejado e do usuário para realizar a reserva.
