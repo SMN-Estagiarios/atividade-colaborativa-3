@@ -1,16 +1,6 @@
 # atividade-colaborativa-3
 Objetivo: fazer como se fosse valendo a vida. Mói de mzr. 
 
-# Controle de Multas
-
-Registra e controla as multas aplicadas aos usuários por atraso na devolução.
-
-## Instruções
-
-- Utilize `controle_multas.py` para gerenciar as multas.
-- Informe o ID do usuário e do livro para aplicar uma multa.
-
-
 # Registro de Empréstimos
 
 Registra os empréstimos de livros aos usuários.
@@ -117,12 +107,12 @@ Permite que os usuários reservem livros que estão atualmente emprestados.
 
 - Utilize `reserva_livro.py` para fazer uma reserva.
 - Informe o ID do livro desejado e do usuário para realizar a reserva.
-
-# Recomendações de Livros
+# Controle de Multas
 
 Gera recomendações personalizadas de livros com base no histórico de leitura do usuário.
 
 ## Instruções
 
-- Execute `recomendacoes_livros.py` para obter recomendações personalizadas.
-- O sistema analisa o histórico de empréstimos e sugere livros com base nos interesses do usuário.
+- Utilize `controle_multas.py` para gerenciar as multas.
+- Informe o ID do usuário e do livro para aplicar uma multa.
+
