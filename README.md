@@ -62,3 +62,11 @@ Registra e controla as multas aplicadas aos usuários por atraso na devolução.
 - Utilize `controle_multas.py` para gerenciar as multas.
 - Informe o ID do usuário e do livro para aplicar uma multa.
 
+# Interface Gráfica do Usuário (UI/UX)
+
+Desenvolve a interface gráfica para melhorar a experiência do usuário.
+
+## Instruções
+
+- A pasta `ui_ux` contém os arquivos relacionados à interface.
+- Utilize ferramentas de design e frameworks adequados para melhorar a usabilidade.
