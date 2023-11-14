@@ -78,3 +78,12 @@ Integra o sistema com um serviço de pagamento para cobrança de multas.
 
 - Configure as credenciais do sistema de pagamento em `integracao_pagamento.py`.
 - Utilize `integracao_pagamento.py` para processar pagamentos de multas.
+
+# Recomendações de Livros
+
+Gera recomendações personalizadas de livros com base no histórico de leitura do usuário.
+
+## Instruções
+
+- Execute `recomendacoes_livros.py` para obter recomendações personalizadas.
+- O sistema analisa o histórico de empréstimos e sugere livros com base nos interesses do usuário.
