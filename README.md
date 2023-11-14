@@ -53,3 +53,12 @@ Gera um relatório dos livros atualmente disponíveis no acervo.
 
 - Execute `relatorio_livros_disponiveis.py` para gerar o relatório.
 - O relatório incluirá informações como título, autor e disponibilidade.
+# Controle de Multas
+
+Registra e controla as multas aplicadas aos usuários por atraso na devolução.
+
+## Instruções
+
+- Utilize `controle_multas.py` para gerenciar as multas.
+- Informe o ID do usuário e do livro para aplicar uma multa.
+
