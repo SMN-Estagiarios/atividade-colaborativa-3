@@ -28,8 +28,6 @@ Esta funcionalidade permite o cadastro de novos livros no sistema.
 - Execute o script `cadastro_livro.js` para adicionar um novo livro.
 - Certifique-se de incluir todos os detalhes necessários, como título, autor e ISBN.
 
-<<<<<<< HEAD
-=======
 # Notificações de Empréstimo por Email
 
 Envia notificações por e-mail aos usuários após um empréstimo bem-sucedido.
@@ -38,7 +36,6 @@ Envia notificações por e-mail aos usuários após um empréstimo bem-sucedido.
 
 - `notificacao_email.py` gerencia o envio de notificações por e-mail.
 - Certifique-se de configurar as credenciais do servidor de e-mail.
->>>>>>> feature-pesquisa-titulo
 # Devolução de Livros
 
 Permite que os usuários devolvam os livros emprestados.
