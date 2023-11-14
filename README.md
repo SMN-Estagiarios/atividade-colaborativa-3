@@ -70,3 +70,11 @@ Desenvolve a interface gráfica para melhorar a experiência do usuário.
 
 - A pasta `ui_ux` contém os arquivos relacionados à interface.
 - Utilize ferramentas de design e frameworks adequados para melhorar a usabilidade.
+# Integração com Sistema de Pagamento para Multas
+
+Integra o sistema com um serviço de pagamento para cobrança de multas.
+
+## Instruções
+
+- Configure as credenciais do sistema de pagamento em `integracao_pagamento.py`.
+- Utilize `integracao_pagamento.py` para processar pagamentos de multas.
