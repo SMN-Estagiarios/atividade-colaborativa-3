@@ -17,3 +17,11 @@ Esta funcionalidade permite o cadastro de novos livros no sistema.
 
 - Execute o script `cadastro_livro.js` para adicionar um novo livro.
 - Certifique-se de incluir todos os detalhes necessários, como título, autor e ISBN.
+# Pesquisa de Livros por Título
+
+Permite aos usuários pesquisar livros com base no título.
+
+## Instruções
+
+- Execute `pesquisa_por_titulo.py` para buscar livros por título.
+- Informe o título desejado para obter resultados relevantes.
