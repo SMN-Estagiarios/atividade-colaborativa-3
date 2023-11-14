@@ -1,4 +1,4 @@
-const cadastrar_livro = (title, author, isbn) => {
+const register_book = (title, author, isbn) => {
   const book = {
     id: isbn + title,
     author: author,
@@ -8,4 +8,4 @@ const cadastrar_livro = (title, author, isbn) => {
   return book;
 };
 
-cadastrar_livro("Colheita Maldita", "Stephen King", "2587964");
+register_book("A Cabana", "William P. Young", "98765425");
