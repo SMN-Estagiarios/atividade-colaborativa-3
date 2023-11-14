@@ -1,5 +1,6 @@
 # atividade-colaborativa-3
 Objetivo: fazer como se fosse valendo a vida. Mói de mzr. 
+
 # Devolução de Livros
 
 Permite que os usuários devolvam os livros emprestados.
@@ -43,3 +44,12 @@ Envia notificações por e-mail aos usuários após um empréstimo bem-sucedido.
 
 - `notificacao_email.py` gerencia o envio de notificações por e-mail.
 - Certifique-se de configurar as credenciais do servidor de e-mail.
+
+# Relatório de Livros Disponíveis
+
+Gera um relatório dos livros atualmente disponíveis no acervo.
+
+## Instruções
+
+- Execute `relatorio_livros_disponiveis.py` para gerar o relatório.
+- O relatório incluirá informações como título, autor e disponibilidade.
