@@ -25,3 +25,12 @@ Permite aos usuários pesquisar livros com base no título.
 
 - Execute `pesquisa_por_titulo.py` para buscar livros por título.
 - Informe o título desejado para obter resultados relevantes.
+
+# Reservas de Livros
+
+Permite que os usuários reservem livros que estão atualmente emprestados.
+
+## Instruções
+
+- Utilize `reserva_livro.py` para fazer uma reserva.
+- Informe o ID do livro desejado e do usuário para realizar a reserva.
