@@ -87,3 +87,11 @@ Gera recomendações personalizadas de livros com base no histórico de leitura 
 
 - Execute `recomendacoes_livros.py` para obter recomendações personalizadas.
 - O sistema analisa o histórico de empréstimos e sugere livros com base nos interesses do usuário.
+# Registro de Empréstimos
+
+Registra os empréstimos de livros aos usuários.
+
+## Instruções
+
+- Utilize o script `registro_emprestimo.py` para registrar empréstimos.
+- Informe o ID do livro e o ID do usuário para completar o registro.
